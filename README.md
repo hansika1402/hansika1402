@@ -5,6 +5,7 @@ I'm a Computer Science Engineering student passionate about technology, programm
 ## 💻 Skills & Tools
 ![Static Badge](https://img.shields.io/badge/JAVA-ED8B00)
 ![Java](https://img.shields.io/badge/java%2C%20advanced%2C%20green%2C%20flat?logo=java)
+![Java](https://img.shields.io/badge/java%2C%20advanced%2C%20green%2C%20flat)
 
 ![Java](https://img.shields.io/badge/java-advanced-green)
 
